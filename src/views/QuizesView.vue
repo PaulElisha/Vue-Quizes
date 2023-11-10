@@ -2,6 +2,7 @@
   <div>
     <header>
       <h1>Quizes</h1>
+      <small>made with vue</small>
       <input type="text" v-model="search" placeholder="search..." />
     </header>
     <div class="options-container">
